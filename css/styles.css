@@ -1,0 +1,180 @@
+/*--------------------------------TAG SELECTOR-----------------------------*/
+body {
+
+  line-height: 2;
+  margin: 0;
+
+  font-family: 'PT Serif', serif;
+  text-align: center;
+}
+
+h1 {
+
+  color: #30e3ca;
+  font-family: 'Dancing Script', cursive;
+  font-size: 4.6875rem;
+  margin: 50px auto 2px auto;
+
+}
+
+h2 {
+
+  color: #30e3ca;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 2.3rem;
+  font-weight: normal;
+
+
+
+}
+
+h3 {
+  font-family: 'DM Sans', sans-serif;
+  color: #11999e;
+}
+
+hr{
+  border-color:#40514e;
+  border-style: none none  dotted none;
+  border-width:8px;
+  margin:50px auto 50px auto;
+  width: 5%;
+
+}
+
+/*-------------------------------Class SELECTOR-----------------------------*/
+.top_container {
+  padding-top: 80px;
+  margin-top: 0;
+  background-color: #e4f9f5;
+  line-height:1.5;
+}
+
+.imagen-principal {
+  margin-top:62px;
+  position: relative;
+  top:6px;
+  width: 25%;
+
+}
+
+.profile{
+  margin-top: 75px;
+  margin-bottom: 65px;
+  line-height:2;
+}
+
+.profile-image{
+  width:13%;
+}
+
+.descripcion-yo{
+  margin:auto;
+  width: 32%;
+
+}
+
+.middle-container {
+   margin:40px auto 40px auto;
+
+
+}
+
+
+
+.footer-container{
+  background-color: #11999e;
+  padding:40px 0 20px 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  width: 10%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left:250px;
+  width: 10%;
+}
+
+.footer-link {
+  font-family: 'DM Sans', sans-serif;
+  margin:30px;
+  text-decoration: none;
+  color: #f7ffff;
+}
+
+.footer-link:hover{
+  color:#30e3ca;
+}
+
+.skills{
+margin-top:50px;
+}
+
+.skill-row{
+margin:80px auto 100px auto;
+line-height:2;
+text-align:left;
+width:50%;
+}
+
+.images-skills1{
+  margin-right: 45px;
+  float:left;
+  width: 25%;
+}
+
+.images-skills2{
+  margin-left: 40px;
+  float:right;
+  width: 25%;
+}
+
+.descripcion-form{
+  width:40%;
+  margin:auto;
+}
+
+.contact-me{
+  margin-top:0;
+  line-height:2;
+}
+
+
+
+.boton-contacto{
+  margin-top:40px;
+  margin-bottom:60px;
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  border-style: none;
+  font-family: 'DM Sans', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #11999e;
+  padding: 12px 22px 12px 22px;
+  text-decoration: none;
+}
+
+.boton-contacto:hover {
+  background: #18bcc2;
+  text-decoration: none;
+}
+
+.copyright{
+
+  color:#d9feff;
+  margin-top:40px;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+/*-------------------------------IDs SELECTOR-----------------------------*/
